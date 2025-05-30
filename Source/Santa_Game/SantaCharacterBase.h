@@ -26,4 +26,12 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+	UPROPERTY(EditAnywhere, Category = Input) 
+	class UInputMappingContext* IC_Character;
+
+	UPROPERTY(EditAnywhere, Category = Input) 
+	class UInputAction* IA_Move;
+
+	UPROPERTY(EditAnywhere, Category = Input)
+	class UInputAction* IA_Jump;
 };
