@@ -25,7 +25,7 @@ ASafeBox::ASafeBox()
 	KeypadAttachPoint->SetRelativeLocation(FVector(30.0f, 0.0f, 120.0f));
 
 	bIsOpen = false; // 초기 상태는 닫혀 있음
-	TargetYaw = 90.f; // 초기 목표 Yaw
+	TargetYaw = -90.f; // 초기 목표 Yaw
 	OpenSpeed = 45.f; // 문이 열리는 속도
 	CurrentYaw = 0.f; // 현재 Yaw 초기화
 }
