@@ -30,6 +30,9 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = "Components")
 	UStaticMeshComponent* MirrorMesh;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Mirror")
+	float MaxDistanceToPlayer = 500.0f; // Maximum distance to consider the player looking at the mirror
+
 private:
 	bool bIsBeingLookedAt;
 	bool bIsBroken;
