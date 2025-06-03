@@ -30,6 +30,7 @@ public:
 	UPROPERTY(EditAnywhere, Category = "Spawn")
 	TArray<ATargetPoint*> SpawnPoints;
 
+
 	UPROPERTY(EditAnywhere, Category = "Spawn")
 	int32 NumBatterisToSpawn = 2;
 
