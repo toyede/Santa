@@ -74,6 +74,14 @@ void AMirrorActor::CheckPlayerGaze()
 	FVector ViewDirection = PlayerRotation.Vector();
 	FVector DirectionToMirror = (GetActorLocation() - PlayerLocation).GetSafeNormal();
 
+	float DistanceToPlayer = FVector::Dist(PlayerLocation, GetActorLocation());
+
+	if (DistanceToPlayer > MaxDistanceToPlayer)
+	{
+		bIsBeingLookedAt = false; // Player is too far away to be looking at the mirror
+		return;
+	}
+
 	float ViewDot = FVector::DotProduct(ViewDirection, DirectionToMirror);
 
 	FVector MirrorForward = GetActorForwardVector();
