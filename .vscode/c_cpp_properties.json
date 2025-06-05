@@ -7,7 +7,7 @@
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Unreal_Projects\\Santa\\.vscode\\compileCommands_Santa_Game.json"
+                "C:\\Santa\\.vscode\\compileCommands_Santa_Game.json"
             ]
         },
         {
@@ -17,7 +17,7 @@
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Unreal_Projects\\Santa\\.vscode\\compileCommands_Default.json"
+                "C:\\Santa\\.vscode\\compileCommands_Default.json"
             ]
         }
     ],

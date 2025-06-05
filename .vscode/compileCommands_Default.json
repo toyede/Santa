@@ -1,41 +1,89 @@
 [
 	{
-		"file": "C:\\Unreal_Projects\\Santa\\Source\\Santa_Game\\SantaCharacterBase.cpp",
+		"file": "C:\\Santa\\Source\\Santa_Game\\ABatterySpawnManager.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal_Projects\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
+			"@C:\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal_Projects\\Santa\\Source\\Santa_Game\\SantaCharacterBase.h",
+		"file": "C:\\Santa\\Source\\Santa_Game\\ABatterySpawnManager.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal_Projects\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
+			"@C:\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal_Projects\\Santa\\Source\\Santa_Game\\Santa_Game.Build.cs",
+		"file": "C:\\Santa\\Source\\Santa_Game\\MirrorActor.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal_Projects\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
+			"@C:\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal_Projects\\Santa\\Source\\Santa_Game\\Santa_Game.cpp",
+		"file": "C:\\Santa\\Source\\Santa_Game\\MirrorActor.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal_Projects\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
+			"@C:\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Unreal_Projects\\Santa\\Source\\Santa_Game\\Santa_Game.h",
+		"file": "C:\\Santa\\Source\\Santa_Game\\SafeBox.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Unreal_Projects\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
+			"@C:\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Santa\\Source\\Santa_Game\\SafeBox.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Santa\\Source\\Santa_Game\\SantaCharacterBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Santa\\Source\\Santa_Game\\SantaCharacterBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Santa\\Source\\Santa_Game\\Santa_Game.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Santa\\Source\\Santa_Game\\Santa_Game.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Santa\\Source\\Santa_Game\\Santa_Game.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Santa\\.vscode\\compileCommands_Default\\Santa_Game.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
 	}
